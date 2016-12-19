@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # introduction-to-play-framework
 
 # play
@@ -43,6 +42,5 @@
 # OpenAPI Specification
 
 [http://swagger.io/specification/](http://swagger.io/specification/)
-=======
+
 # introduction-to-play-framework
->>>>>>> f5deb4b76fe0bcee8c243ba929e284d91b94ab61
