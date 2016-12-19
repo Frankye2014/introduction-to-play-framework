@@ -42,5 +42,3 @@
 # OpenAPI Specification
 
 [http://swagger.io/specification/](http://swagger.io/specification/)
-
-# introduction-to-play-framework
